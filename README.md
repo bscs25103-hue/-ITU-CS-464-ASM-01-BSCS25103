@@ -5,9 +5,9 @@
 - **I played:** [I Played for 20 minutes. Completed one tournament]
 - **Video (optional):** [N/A]
 <p>
-<img src="Assets/Docs/Game1/1.png" width="240">
-<img src="Assets/Docs/Game1/2.png" width="240">
-<img src="Assets/Docs/Game1/3.png" width="240">
+<img src="Assets/Docs/Game1/1.jpg" width="240">
+<img src="Assets/Docs/Game1/2.jpg" width="240">
+<img src="Assets/Docs/Game1/3.jpg" width="240">
 </p>
 1. [M1, M4] · [Opening Screen]
 2. [M2] · [Game Level]
@@ -34,9 +34,9 @@ Challenge : Always thinking of the best way to cause maximum destruction and gai
 - **I played:** [I Played for 20 minutes. Played for one in-game day]
 - **Video (optional):** [N/A]
 <p>
-<img src="Assets/Docs/Game2/1.png" width="240">
-<img src="Assets/Docs/Game2/2.png" width="240">
-<img src="Assets/Docs/Game2/3.png" width="240">
+<img src="Assets/Docs/Game2/1.jpg" width="240">
+<img src="Assets/Docs/Game2/2.jpg" width="240">
+<img src="Assets/Docs/Game2/3.jpg" width="240">
 </p>
 1. [M1, M4] · [Spawned in New World]
 2. [M2] · [Day/Night Mechanism ]
@@ -62,9 +62,9 @@ Challenge : Minecraft has many monsters (EnderDragon, Wither etc) defeating them
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
 <p>
-| Level01 | <img src="Assets/Docs/levels/Level01.png" width="320"> |Assassin's creed| Landmark|
-| Level02 | <img src="Assets/Docs/levels/Level02.png" width="320"> |Horror Game|Light and constrast|
-| Level03 | <img src="Assets/Docs/levels/Level03.png" width="320"> |Subway Surfers|Bread Crumbs|
-| Level04 | <img src="Assets/Docs/levels/Level04.png" width="320"> |Souls Game|Pinch and Release|
-| Level05 | <img src="Assets/Docs/levels/Level05.png" width="320"> |Wolverine|Leading Lines|
+| Level01 | <img src="Assets/Docs/levels/Level01.jpg" width="320"> |Assassin's creed| Landmark|
+| Level02 | <img src="Assets/Docs/levels/Level02.jpg" width="320"> |Horror Game|Light and constrast|
+| Level03 | <img src="Assets/Docs/levels/Level03.jpg" width="320"> |Subway Surfers|Bread Crumbs|
+| Level04 | <img src="Assets/Docs/levels/Level04.jpg" width="320"> |Souls Game|Pinch and Release|
+| Level05 | <img src="Assets/Docs/levels/Level05.jpg" width="320"> |Wolverine|Leading Lines|
 </p>
