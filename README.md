@@ -5,9 +5,9 @@
 - **I played:** [I Played for 20 minutes. Completed one tournament]
 - **Video (optional):** [N/A]
 <p>
-<img src="Assets/Docs/Game1/1.jpg" width="240">
-<img src="Assets/Docs/Game1/2.jpg" width="240">
-<img src="Assets/Docs/Game1/3.jpg" width="240">
+<img src="Assets/Docs/Game1/1.jpeg" width="240">
+<img src="Assets/Docs/Game1/2.jpeg" width="240">
+<img src="Assets/Docs/Game1/3.jpeg" width="240">
 </p>
 1. [M1, M4] · [Opening Screen]
 2. [M2] · [Game Level]
@@ -34,9 +34,9 @@ Challenge : Always thinking of the best way to cause maximum destruction and gai
 - **I played:** [I Played for 20 minutes. Played for one in-game day]
 - **Video (optional):** [N/A]
 <p>
-<img src="Assets/Docs/Game2/1.jpg" width="240">
-<img src="Assets/Docs/Game2/2.jpg" width="240">
-<img src="Assets/Docs/Game2/3.jpg" width="240">
+<img src="Assets/Docs/Game2/1.jpeg" width="240">
+<img src="Assets/Docs/Game2/2.jpeg" width="240">
+<img src="Assets/Docs/Game2/3.jpeg" width="240">
 </p>
 1. [M1, M4] · [Spawned in New World]
 2. [M2] · [Day/Night Mechanism ]
